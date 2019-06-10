@@ -1,0 +1,34 @@
+{
+  "name": "dupes-move",
+  "version": "1.0.0",
+  "description": "Move files in \"Trash\" directory based on fdupes / jdupes output",
+  "main": "build/mdupes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiiiycuk/dupes-move.git"
+  },
+  "keywords": [
+    "fdupes",
+    "jdupes",
+    "move",
+    "remove"
+  ],
+  "author": "caiiiycuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caiiiycuk/dupes-move/issues"
+  },
+  "homepage": "https://github.com/caiiiycuk/dupes-move#readme",
+  "devDependencies": {
+    "@types/fs-extra": "^7.0.0",
+    "@types/node": "^12.0.7",
+    "tslint": "^5.17.0",
+    "typescript": "^3.5.1"
+  },
+  "dependencies": {
+    "fs-extra": "^8.0.1"
+  }
+}

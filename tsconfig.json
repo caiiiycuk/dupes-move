@@ -1,0 +1,7 @@
+{
+    "files": ["src/mdupes.ts"],
+    "compilerOptions": {
+        "outDir": "build",
+        "noImplicitAny": true
+    }
+}
